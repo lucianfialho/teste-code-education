@@ -17,5 +17,5 @@ baixando o repositorio e criando via touch para commitar).
 - Abra seu terminal e digite o seguinte comando:
 `git clone https://github.com/lucianfialhobp/teste-code-education`
 
-Agora é só começar a codar! :) BS and have good fun!
+Agora é só começar a codar! BS and have good fun! :)
   
